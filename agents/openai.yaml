@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Now Playing"
+  short_description: "Turn a photo into a song-memory player poster."
+  default_prompt: "Use $photo-now-playing to turn this photo into a music-player memory poster."
